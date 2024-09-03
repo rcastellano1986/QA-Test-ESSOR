@@ -8,7 +8,7 @@ Portanto, em nosso desafio, estabeleceremos alguns critérios mínimos para a ap
 
 # Critérios mínimos:
 
-- Aplicação em JavaScript
+- Cypress
 - [Clean Code](https://becode.com.br/clean-code/)
 - Realizar teste na API nass seguintes entidades:
   - CRUD em Clientes (/Contacts)
