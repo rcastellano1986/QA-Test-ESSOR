@@ -34,15 +34,3 @@ Utilizaremos a Ploomes para realizar este test para acessar a api você precisar
 # Criação de um conta trial para realização dos testes:
 
 Você pode criar uma conta trial para realização do teste proposto através do link: https://www.ploomes.com/versao-trial
-
-# Helpers
-
-[O que é o módulo de clientes?](https://suporte.ploomes.com/pt-BR/articles/5452155-o-que-e-o-modulo-de-clientes)
-
-[Novo módulo de negócios](https://suporte.ploomes.com/pt-BR/articles/5452170-novo-modulo-de-negocios-08-08-19)
-
-[Como criar negócios](https://suporte.ploomes.com/pt-BR/articles/5452169-como-criar-negocios)
-
-[Curso de como utilizar o módulo de clientes](https://universidade.ploomes.com/courses/clientes)
-
-[Curso de como utilizar o workflow](https://universidade.ploomes.com/courses/workflow)
