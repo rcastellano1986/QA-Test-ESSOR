@@ -1,4 +1,4 @@
-# QA-Test-ESSOR
+# QA-Sr-Test-ESSOR
 
 Parabéns por avançar para esta etapa do processo seletivo.
 
@@ -10,27 +10,29 @@ Portanto, em nosso desafio, estabeleceremos alguns critérios mínimos para a ap
 
 - Cypress
 - [Clean Code](https://becode.com.br/clean-code/)
-- Realizar teste na API nass seguintes entidades:
-  - CRUD em Clientes (/Contacts)
-  - CRUD em Negócios (/Deals)
-- Teste no Front-end simulando o uso do sistema semelhante ao realizado pelo usuário final. Devem ser testadas as seguintes funcionalidades:
-  - Login do sistema
-  - CRUD em Clientes
-  - CRUD em Negócios
+- K6
 
 # Diferenciais:
 
-- Testar mais funcionalidades além das especificadas;
+- Lógica de programação.
+- Organização dos projetos.
+- Criação de scripts de performance que tragam resultados que façam sentidos. 
 
-# Entrega
+# Teste 1 - Automação WEB
+Crie um repositório no seu github chamado teste1-qa-essor onde você vai subir o código que será escrito utilizando o Cypress para automatizar um sistema Web chamado BugBank, é um sistema Open Source que deverá ser utilizado para esse teste.
 
-- Para a entrega, commitar na branch `main` os testes criados;
-- Incluir também instruções de execução, limitações, bugs conhecidos e quais seriam os próximos passos para a evolução do sistema;
+O Link do BugBank que deverá ser usado para a automação é: https://bugbank.netlify.app/
+Fique a vontade para automatizar qualquer feature que você desejar do BugBank, o objetivo aqui é analisar as boas práticas usadas para realizar o teste.
 
-# Documentação da API:
+# Teste 2 - Teste Performance
+Crie um repositório no seu github chamado teste2-qa-essor e elabore um script utilizando o K6.
 
-Utilizaremos a Ploomes para realizar este test para acessar a api você precisará da chave de integração, que você consegue pegar seguindo a documentação a seguir: https://developers.ploomes.com/
+Escolha uma das APIs de https://github.com/toddmotto/public-apis ou quaquer outra API pública
+Criar um script no K6 "chamando" essa API
+Validar o retorno da API
+Realizar a leitura dos parametros obtidos e realizar um pequeno relatorio descrevendo os resultados obtidos. 
 
-# Criação de um conta trial para realização dos testes:
+# Regras
+O teste deverá ser entregue em até 1 semana a partir da data de recebimento desse repositório.
+O teste deve ser enviado para o email: raphael.luzo@essor.com.br
 
-Você pode criar uma conta trial para realização do teste proposto através do link: https://www.ploomes.com/versao-trial
